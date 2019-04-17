@@ -1,0 +1,17 @@
+<!--pages/about/menu/menu.wxml-->
+<view class="container-menu">
+  <view class='container-cell'>
+    <button class="btn-normal" bindtap='gotoNextpage1'>学生一食堂</button>
+    <button class="btn-normal">学生二食堂</button>
+    <button class="btn-normal">公诚快餐</button>
+    <button class="btn-abnormal" bindtap='gotoNextpage4'>风味小吃城</button>
+    <button class="btn-normal">美食广场</button>
+  </view>
+  <view class='container-cell'>
+    <button class="btn-normal">幸福小厨</button>
+    <button class="btn-normal">清真食堂</button>
+    <button class="btn-normal">西工大包子</button>
+
+  </view>
+    
+</view>

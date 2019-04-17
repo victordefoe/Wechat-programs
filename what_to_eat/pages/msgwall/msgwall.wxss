@@ -1,0 +1,5 @@
+/* pages/msgwall/msgwall.wxss */
+.state{
+  border-top: 20px;
+  margin-top: 20px;
+}

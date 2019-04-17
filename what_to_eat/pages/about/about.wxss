@@ -1,0 +1,123 @@
+ .username{
+  position: fixed;
+  bottom: 1000rpx;
+  right: 270rpx;
+  font-size: 15px;
+  color: black;
+}
+ 
+ .info{
+  font-weight:bold; 
+  font-size:30px;
+  position: fixed;
+  bottom: 900rpx;
+  right: 300rpx;
+}
+
+
+text{
+  display: block
+} 
+
+ image,text{
+   margin-top: 5px;
+  margin-bottom: 60px;
+  margin-left: 30px;
+  
+} 
+navigator{
+  margin-left: 300rpx
+}
+
+.image1{
+  height: 100rpx;
+  width: 100rpx;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 400rpx;
+  right: 600rpx;
+  /* position: fixed; */
+} 
+.image2{
+  height: 100rpx;
+  width: 100rpx;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 400rpx;
+  right: 75rpx;
+} 
+
+.page-btn1{
+  /* //border-radius: 50%; */
+  /* border: 8rpx dotted green; */
+  position: fixed;
+  bottom: 800rpx;
+  right: 270rpx;  
+  border-style: double;
+  border-width: 3px;
+  border-color: red;
+  margin-left: 0px;
+  color: #fff;
+  background-color: rgb(10, 19, 48);
+  font-size: 20px;
+  font-weight: bold;
+  /* width: 150%; */
+}
+
+.qr-txt{
+  position: fixed;
+  bottom: 475rpx;
+  right: 315rpx;
+  margin-bottom: 12px;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+
+
+.page-btn2{
+  /* //border-radius: 50%; */
+  /* border: 8rpx dotted green; */
+  position: fixed;
+  bottom: 330rpx;
+  right: 270rpx;  
+  border-style: double;
+  border-width: 3px;
+  border-color: red;
+  margin-left: 0px;
+  color: #fff;
+  background-color: rgb(11, 13, 20);
+  font-size: 20px;
+  font-weight: bold;
+  /* width: 150%; */
+}
+
+
+.page-btn3{
+  color: rgb(245, 124, 76);
+  background-clip: padding-box;
+  background-color: rgb(152, 242, 248);
+  border-radius: 0%;
+  height: 10vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+  font-style: inherit;
+}
+
+.page-btn::after{
+  border: 20;
+}
+.btn-hover{
+  background-color: pink;
+}
+.pos{
+  position: fixed;
+  bottom: 20rpx;
+  right: 600rpx;
+}
+
+.con-title{
+  display: flex;
+  flex-direction: column;
+}

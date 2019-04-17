@@ -1,0 +1,9 @@
+<!--pages/acount/acount.wxml-->
+<text>日历</text>
+<!-- <text style='font-weight:bold;font-size:20px'>__________________________________________</text> -->
+<calendar calendar-style="calendar" header-style="header" board-style="board" show-more-days="{{False}}" binddayClick="dayClick" binddateChange="dateChange" days-color="{{days_style}}"/>
+<!-- <text style='text-decoration:overline' decode="{{true}}" space="{{true}}" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</text> -->
+<text>{{showyear1}}年{{showmonth1}}月{{showday1}}日 到 {{showyear2}}年{{showmonth2}}月{{showday2}}日\n</text>
+
+<text>{{lunar}}</text>
+

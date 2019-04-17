@@ -1,0 +1,34 @@
+/* pages/make/random/random.wxss */
+.container-ran{
+  background-image: url("https://img3.doubanio.com/view/photo/l/public/p2531242761.jpg");
+  background-repeat: repeat;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+.txt-ran{
+  font: 20px bold;
+  color: lightseagreen;
+  display: block;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.txt-ran2{
+  font: 30px bold;
+  color: rgb(178, 32, 44);
+  display: block;
+  text-align: center;
+}
+
+.txt-ran3{
+  font: 30px bold;
+  color: rgb(240, 75, 130);
+  display: block;
+  text-align: center;
+}

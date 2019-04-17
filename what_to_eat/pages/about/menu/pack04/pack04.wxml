@@ -1,0 +1,4 @@
+<!--pages/about/menu/pack04/pack04.wxml-->
+<view class='container-pk'>
+  <text class='txt-pk4'>瓦罐汤 \n 铁板炒饭 \n肉夹馍凉皮砂锅 \n李昌兰烫菜 \n 麻辣香锅 \n 特色蒸菜 \n西府削筋面 \n刀削面 \n户县软面 \n多味饺子 \n重庆小面 \n饼类 \n粥类</text>
+</view>

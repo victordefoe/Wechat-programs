@@ -1,0 +1,10 @@
+<!--pages/make/random/random.wxml-->
+<view class='container-ran'>
+  <view>
+    <view><text>现在时间是：</text>{{time}}</view>
+    <text class='txt-ran'>你下一顿应该去吃 </text> <text class='txt-ran2'>{{canteen}} </text><text class='txt-ran3'>{{food}}</text>
+    <button bindtap='stopRotate'>停下</button>
+  </view>
+</view>
+
+

@@ -1,0 +1,19 @@
+/* pages/acount/acount.wxss */
+
+.calendar{
+  background-color: bisque;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+
+.header {
+    font-size: large;
+    color: #59518d;   
+}
+
+.board {
+    color: #c7cbe2;
+    font-weight: bold;
+}
+

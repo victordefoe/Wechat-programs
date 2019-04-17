@@ -1,0 +1,9 @@
+<!--pages/statement/statement.wxml-->
+<text  decode="{{true}}" space="{{true}}">\n
+&nbsp;&nbsp;&nbsp;&nbsp;人生最大的烦恼之一就是，每天都不知道吃什么好。每次到饭店了，就开始纠结。一个人还好，两个人的话就是真的麻烦了诶</text>
+<text  decode="{{true}}" space="{{true}}">\n
+&nbsp;&nbsp;&nbsp;&nbsp;所以呢希望这个小程序能解决吃什么的问题呢</text>
+<text  decode="{{true}}" space="{{true}}">\n
+&nbsp;&nbsp;&nbsp;&nbsp;以后还可以继续开发更多功能，比如：地图定位呀、多用户登录记录呀、膳食健康营养状况统计、记账呀</text>
+<text  decode="{{true}}" space="{{true}}">\n
+&nbsp;&nbsp;&nbsp;&nbsp;慢慢来吧</text>

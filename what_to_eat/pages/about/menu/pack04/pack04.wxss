@@ -1,0 +1,8 @@
+/* pages/about/menu/pack04/pack04.wxss */
+
+.txt-pk4{
+  font-family: Noto Sans S Chinese;
+  font-size: 20px;
+  font-weight: inherit;
+  /* background-color: rgb(166, 230, 171); */
+}

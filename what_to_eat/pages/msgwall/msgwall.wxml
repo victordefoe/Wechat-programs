@@ -1,0 +1,8 @@
+<!--pages/msgwall/msgwall.wxml-->
+<view class='state' wx:for="{{store}}">
+  <text>{{item.ID}}\n</text>
+  <image src="{{item.Image_url}}"></image>
+  <text>\n</text>
+  <text>{{item.msg}}\n</text>
+  <text>{{item.time}}</text>
+</view>

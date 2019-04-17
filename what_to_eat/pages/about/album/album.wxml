@@ -1,0 +1,5 @@
+<!--pages/about/album/album.wxml-->
+<view class="container-alb">
+  <text class='txt-alb'>此功能有待开发，敬请期待。。。</text>
+</view>
+

@@ -1,0 +1,49 @@
+{
+  "pages":["pages/about/about","pages/about/menu/menu", "pages/about/album/album","pages/about/menu/pack01/pack01","pages/about/menu/pack02/pack02","pages/about/menu/pack03/pack03","pages/about/menu/pack04/pack04","pages/about/menu/pack05/pack05","pages/about/menu/pack06/pack06","pages/about/menu/pack07/pack07","pages/about/menu/pack08/pack08", "pages/make/diy/diy", "pages/make/random/random", "pages/statement/statement","pages/acount/acount","pages/msgwall/msgwall"],
+  "tabBar":{
+    "backgroundColor": "rgb(152, 242, 248)",
+    
+    "list":[
+      {
+        "text":"今吃啥",
+        "pagePath":"pages/about/about",
+        "iconPath":"icon/02.png",
+        "selectedIconPath":"icon/02.png"
+      },
+      {
+        "text": "留言墙",
+        "pagePath": "pages/msgwall/msgwall",
+        "iconPath": "icon/03.png",
+        "selectedIconPath": "icon/03.png"
+      },
+      {
+        "text": "记账",
+        "pagePath": "pages/acount/acount",
+        "iconPath": "icon/01.png",
+        "selectedIconPath": "icon/01.png"
+      }
+    ],
+    "color": "#000000",
+    "selectedColor":"#0df",
+    "borderStyle": "white",
+    "position":"bottom"
+    
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "I'll be there",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false,
+    "navigatoionStyle":"default"
+  },
+
+  "plugins": {
+    "calendar": {
+      "version": "1.1.0",
+      "provider": "wx92c68dae5a8bb046"
+    }
+  }
+
+}

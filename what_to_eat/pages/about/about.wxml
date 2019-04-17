@@ -1,0 +1,24 @@
+
+<view class="container">
+    <view class="con-title">
+        <navigator url='../statement/statement' ><text class='username'>写给JC（点我）</text></navigator>
+        <text class="info">今吃啥</text>
+    </view>
+    <view class="page-bottom">
+        
+        
+
+    </view>
+</view>
+
+<view class="page-bottom">
+  <button class="page-btn3" bindtap="gotoDIY" hover-class='btn-hover'><view class='iconfont icon-CI'></view>系统帮你决定</button>
+</view>
+
+<view class="pos">
+  <button class="page-btn2" bindtap="gotoMenu" hover-class='btn-hover' open-type='switchTab'><view class='iconfont icon-xiaochi'></view>转战食堂</button>
+  <button class="page-btn1" bindtap="gotoAlbum"><view class='iconfont icon-iconset0497'></view>校外饭馆</button>
+  <image src="images/001.jpg" class="image1"></image>
+  <image src="images/002.jpg" class="image2"></image>
+  <text class="qr-txt">今天比较穷懒？？</text> 
+</view>

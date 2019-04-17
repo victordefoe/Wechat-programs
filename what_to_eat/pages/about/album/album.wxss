@@ -1,0 +1,21 @@
+/* pages/about/album/album.wxss */
+
+.container-alb{
+  /* background-image: url("https://img3.doubanio.com/view/photo/l/public/p2531242761.jpg"); */
+  background-image: url("https://img3.doubanio.com/view/photo/l/public/p2531267655.jpg");
+  background-color: rgb(183, 204, 236);
+  background-repeat: repeat;
+  height: 100vh;
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.txt-alb{
+  font-family: Noto Sans S Chinese;
+  font-size: 20px;
+  font-weight: inherit;
+  background-color: rgb(166, 230, 171);
+}

@@ -1,0 +1,15 @@
+<!--pages/make/diy/diy.wxml-->
+
+<view class='container-diy'>
+  <view class='con-1'>
+    
+    <button class="btn-1" bindtap='gotResult'><view class='iconfont icon-choujiang'></view><text class='btn-txt'>抽签决定</text></button>
+    <text class="txt-1">让上天来决定今天吃什么吧</text>
+    
+  </view>
+  <view class='con-2'>
+    <button class="btn-1" bindtap='fail'><view class='iconfont icon-check-circle'></view><text class='btn-txt'>系统推荐</text></button>
+    <text class="txt-2">记录并计算你每天摄入的营养，从而智能推荐这顿饭应该吃什么</text>
+  </view>
+</view>
+

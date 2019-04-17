@@ -1,0 +1,49 @@
+
+
+/* pages/make/diy/diy.wxss */
+.container-diy{
+  background-image: url("https://img3.doubanio.com/view/photo/l/public/p2531267653.jpg");
+  background-repeat: round;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn-1{
+  border: 3px dotted yellowgreen;
+  size: mini;
+}
+
+.btn-txt{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.txt-1{
+  font: 20px bolder;
+  font-feature-settings: "falt";
+  font-family: Noto Sans S Chinese;
+}
+
+.txt-2{
+  font: 20px bolr;
+  font-feature-settings: "falt";
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.con-1{
+  display: flex;
+  flex-direction: column;
+}
+
+.con-2{
+  display: flex;
+  flex-direction: column;
+}
+
+
